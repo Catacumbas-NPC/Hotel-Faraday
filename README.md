@@ -1,5 +1,3 @@
 # Hotel Faradise
 
-Juego para la asignatura D2D
-
-Juego de plataformas 2d para 1/2 jugadores hecho en Unity2D como proyecto de clase entr varios compañeros
+2D coop platformer game done by 4 stundent for college
