@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crank
+  - Rope
+  - Clavo
+  - IceWall
+  - Box
+  - IceGround
+  - ClavoObject
+  - 0Gravity
+  - Balanza
+  - objetoMovil
+  - DiagonalGroundIce
+  - ClavoSalto
+  - groundCheck
+  - hangingPlatform
+  - Ladder
+  - openDoor
+  - Button
+  - carambano
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Bullets
+  - IgnoreBullets
+  - Ground
+  - Objects
+  - IceGround
+  - Kate
+  - Connor
+  - Interactuables
+  - IgnorePlayer
+  - IgnoreGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2469763075
+    locked: 0
+  - name: Details
+    uniqueID: 2728668101
+    locked: 0
+  - name: Interactuables
+    uniqueID: 2626826503
+    locked: 0
+  - name: Objects
+    uniqueID: 1995007411
+    locked: 0
+  - name: Characters
+    uniqueID: 1398526733
+    locked: 0
+  - name: Text
+    uniqueID: 2153967927
+    locked: 0
+  - name: Front
+    uniqueID: 3227135499
+    locked: 0
